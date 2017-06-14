@@ -384,6 +384,7 @@
     "activityBar.background": "#0a2c4f",
     "activityBar.foreground": "#ff8c31",
     "activityBarBadge.background": "#CF6cC9",
+    "badge.background": "#BF4cB9",
     "button.background": "#ef7c11",
     "diffEditor.insertedTextBackground": "#027ddb",
     "diffEditor.removedTextBackground": "#CF6cC9",

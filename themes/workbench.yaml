@@ -7,6 +7,9 @@ colors:
   activityBar.foreground: _orange-light
   activityBarBadge.background: _maroon-lightest
   #
+  # Badges
+  #
+  badge.background: _maroon-light
   # Button
   #
   button.background: _orange
