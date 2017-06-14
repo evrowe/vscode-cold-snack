@@ -1,5 +1,4 @@
 colors:
-  background: _blue-dark
   foreground: _white
   #
   # Activity bar (far left sidebar)
@@ -14,7 +13,7 @@ colors:
   #
   # Diff
   #
-  diffEditor.insertedTextBackground: _orange-light
+  diffEditor.insertedTextBackground: _blue-light
   # diffEditor.insertedTextBorder: NONE
   diffEditor.removedTextBackground: _maroon-lightest
   # diffEditor.removedTextBorder: NONE
@@ -27,6 +26,7 @@ colors:
   #
   editor.background: _blue-dark
   editor.foreground: _white
+  editor.lineHighlightBackground: _blue
   editor.selectionBackground: _blue
   editorCodeLens.background: _blue-dark
   editorCursor.foreground: _yellow
@@ -34,11 +34,14 @@ colors:
   editorBracketMatch.border: _yellow
   # editorBracketMatch.background: NONE
   #
+  # Editor Widgets
+  #
+  editorWidget.background: _blue-dark
+  editorWidgetBorder: _blue
+  #
   # Errors
   #
-  editorError.foreground: _maroon-lightest
-  editorError.border: _maroon-dark
-  editorWarning.foreground: _orange-light
+  editorError.border: _maroon
   editorWarning.border: _orange-dark
   #
   # Git Gutters
@@ -74,10 +77,10 @@ colors:
   #
   sideBar.background: _blue-dark
   #
-  # Slider
+  # Scrollbar + Slider
   #
-  scrollbarSlider.activeBackground: _blue-lightest
-  scrollbarSlider.hoverBackground: _blue-lightest
+  scrollbarSlider.activeBackground: _blue-light
+  scrollbarSlider.hoverBackground: _blue-light
   #
   # Status Bar (bar on bottom)
   #

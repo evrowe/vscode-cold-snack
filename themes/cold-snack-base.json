@@ -22,7 +22,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "_orange"
+        "foreground": "_blue-lightest"
       }
     },
     {
@@ -43,7 +43,7 @@
       "name": "User-defined constant",
       "scope": "constant.character, constant.other",
       "settings": {
-        "foreground": "_yellow"
+        "foreground": "_yellow-light"
       }
     },
     {
@@ -58,7 +58,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "_yellow"
+        "foreground": "_yellow-light"
       }
     },
     {
@@ -113,7 +113,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": "",
-        "foreground": "_orange-dark"
+        "foreground": "_orange"
       }
     },
     {
@@ -129,7 +129,7 @@
       "scope": "support.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "_yellow-light"
+        "foreground": "_yellow-lighter"
       }
     },
     {
@@ -152,7 +152,7 @@
       "scope": "support.other.variable",
       "settings": {
         "fontStyle": "",
-        "foreground": "_yellow-light"
+        "foreground": "_yellow-lighter"
       }
     },
     {
@@ -213,7 +213,7 @@
       "settings": {
         "fontStyle": " italic",
         "background": "",
-        "foreground": "_yellow"
+        "foreground": "_yellow-light"
       }
     },
     {
@@ -234,7 +234,7 @@
       "name": "",
       "scope": "source meta.at-rule.import variable.parameter.url",
       "settings": {
-        "foreground": "_orange-dark"
+        "foreground": "_orange"
       }
     },
     {

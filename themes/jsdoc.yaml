@@ -21,4 +21,4 @@ styles:
   # Custom doc tags
   - scope: comment.block storage.custom
     settings:
-      foreground: _maroon-light
+      foreground: _blue-lightest

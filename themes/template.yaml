@@ -2,7 +2,7 @@ styles:
   # Tagged template hbs``
   - scope: meta.source.handlebars entity.name.tag
     settings:
-      foreground: _blue-lightest
+      foreground: _maroon-lightest
   # {{, {{{, () and </>
   - scope: punctuation.definition.expression, punctuation.definition.subexpression, punctuation.definition.block.unescaped, punctuation.definition.tag
     settings:

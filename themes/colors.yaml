@@ -13,8 +13,8 @@ themeColors:
   # Mountains
   _maroon: '#4b0c39'
   _maroon-dark: '#2b0c29'
-  _maroon-light: '#7b2c49'
-  _maroon-lightest: '#BF4cB9'
+  _maroon-light: '#BF4cB9'
+  _maroon-lightest: '#CF6cC9'
   _orange: '#ef7c11'
   _orange-dark: '#cf5c00'
   _orange-light: '#ff8c31'
