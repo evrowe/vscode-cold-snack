@@ -27,9 +27,10 @@ colors:
   #
   editor.background: _blue-dark
   editor.foreground: _white
-  editor.selectionBackground: _blue-light
+  editor.selectionBackground: _blue
+  editorCodeLens.background: _blue-dark
   editorCursor.foreground: _yellow
-  editorRuler.foreground: _yellow
+  editorRuler.foreground: _blue
   editorBracketMatch.border: _yellow
   # editorBracketMatch.background: NONE
   #
@@ -55,7 +56,19 @@ colors:
   #
   # List
   #
-  # list.hoverForeground: _hover-green tree text on hover
+  list.hoverBackground: _blue
+  #
+  # Merge Conflicts
+  #
+  merge.currentHeaderBackground: _blue-lightest
+  merge.currentContentBackground: _blue-light
+  merge.incomingHeaderBackground: _orange-lightest
+  merge.incomingContentBackground: _orange-light
+  #
+  # Peek View
+  #
+  peekViewEditor.background: _blue-dark
+  peekViewResult.background: _blue-dark
   #
   # Sidebar (File tree)
   #
@@ -99,3 +112,7 @@ colors:
   terminal.ansiRed: _maroon-lightest
   terminal.ansiWhite: _gray-light
   terminal.ansiYellow: _yellow
+  #
+  # Title Bar (macOS)
+  #
+  titleBar.activeBackground: _blue-dark

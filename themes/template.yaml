@@ -7,11 +7,11 @@ styles:
   - scope: punctuation.definition.expression, punctuation.definition.subexpression, punctuation.definition.block.unescaped, punctuation.definition.tag
     settings:
       fontStyle: italic
-      foreground: _orange-light
+      foreground: _orange
   # name: Expression Name,
   - scope: entity.name.function.expression
     settings:
-      foreground: _maroon-lightest
+      foreground: _blue-lightest
   # Unescaped value
   - scope: entity.unescaped.expression
     settings:
@@ -19,7 +19,7 @@ styles:
   # Expression parameter NAME
   - scope: entity.expression variable.parameter.name
     settings:
-      foreground: _orange
+      foreground: _orange-lightest
   # Expression parameter VALUE
   - scope: entity.expression variable.parameter.value
     settings:
@@ -27,7 +27,7 @@ styles:
   # Ember built in helpers
   - scope: entity.expression support.function.builtin
     settings:
-      foreground: _yellow-light
+      foreground: _yellow-lighter
   # HTML tag names
   - scope: entity.name.tag.html
     settings:
@@ -35,4 +35,4 @@ styles:
   # HTML attribute NAME
   - scope: entity.other.attribute-name.handlebars
     settings:
-      foreground: _orange-light
+      foreground: _orange-lightest

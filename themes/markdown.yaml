@@ -6,16 +6,16 @@ styles:
   # Inline code blocks: `code`
   - scope: markup.inline.raw
     settings:
-      foreground: _orange
+      foreground: _orange-light
   # Headers: ## Heading
   - scope: punctuation.definition.heading
     settings:
-      foreground: _orange
+      foreground: _blue-lightest
   # List punctuation: -
   - scope: beginning.punctuation.definition.list
     settings:
-      foreground: _maroon-light
+      foreground: _maroon-lightest
   # Fenced code blocks
   - scope: markup.fenced_code.block.markdown
     settings:
-      foreground: _gray-light
+      foreground: _gray-dark
