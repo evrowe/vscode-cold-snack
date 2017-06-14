@@ -60,6 +60,8 @@ colors:
   # List
   #
   list.hoverBackground: _blue
+  list.activeSelectionBackground: _blue-light
+  list.inactiveSelectionBackground: _blue
   #
   # Merge Conflicts
   #
@@ -72,6 +74,8 @@ colors:
   #
   peekViewEditor.background: _blue-dark
   peekViewResult.background: _blue-dark
+  peekViewResult.selectionBackground: _blue
+  peekViewTitle.background: _blue
   #
   # Sidebar (File tree)
   #

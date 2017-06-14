@@ -4,7 +4,9 @@ There's nothing better in life than a tall, refreshing, cold snack for your tast
 Reminiscent of the Unofficial Official Beer of Montana, the Cold Snack theme will soothe and satiate your mind
 as you create your magical works.
 
-![Screenshot](./screenshot.png)
+![Screenshot 1](./screenshot1.png)
+![Screenshot 2](./screenshot2.png)
+![Screenshot 3](./screenshot3.png)
 
 ## Contributing
 Contributions are welcome! The Cold Snack theme colors are in `themes/colors.yaml`.
