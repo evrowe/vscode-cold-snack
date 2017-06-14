@@ -1,0 +1,24 @@
+styles:
+  # Make JSDoc comments font normal for better readablility
+  - scope: comment.block.documentation
+    settings:
+      foregound: _gray-dark
+      fontStyle: normal
+  # Tags with type defs curly punctation
+  - scope: entity.name.type.instance.jsdoc punctuation.definition
+    settings:
+      foreground: _orange-light
+      fontStyle: italic
+  # Type def and method/prop NAMES
+  - scope: entity.name.type.instance.jsdoc
+    settings:
+      foreground: _gray
+      fontStyle: italic
+  # Built in JSdoc block tags
+  - scope: comment.block storage
+    settings:
+      foreground: _orange-light
+  # Custom doc tags
+  - scope: comment.block storage.custom
+    settings:
+      foreground: _maroon-light

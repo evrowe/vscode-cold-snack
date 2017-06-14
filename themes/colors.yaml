@@ -1,0 +1,22 @@
+themeColors:
+  _white: '#e9e9eb'
+  _gray-light: '#d1d5d4'
+  _gray: '#cacaca'
+  _gray-dark: '#909090'
+  _gray-darker: '#3B3B3B'
+  _gray-darkest: '#202020'
+  # Bluuuuees
+  _blue: '#0a2c4f'
+  _blue-dark: '#0a0c29'
+  _blue-light: '#027ddb'
+  _blue-lightest: '#00b7e9'
+  # Mountains
+  _maroon: '#4b0c39'
+  _maroon-dark: '#2b0c29'
+  _maroon-light: '#7b2c49'
+  _maroon-lightest: '#Bb2cB9'
+  _orange: '#ef7c11'
+  _orange-dark: '#cf5c00'
+  _orange-light: '#ff8c31'
+  _yellow: '#d6b508'
+  _yellow-light: '#f6d528'

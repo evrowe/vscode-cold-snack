@@ -1,0 +1,38 @@
+styles:
+  # Tagged template hbs``
+  - scope: meta.source.handlebars entity.name.tag
+    settings:
+      foreground: _blue-lightest
+  # {{, {{{, () and </>
+  - scope: punctuation.definition.expression, punctuation.definition.subexpression, punctuation.definition.block.unescaped, punctuation.definition.tag
+    settings:
+      fontStyle: italic
+      foreground: _orange-light
+  # name: Expression Name,
+  - scope: entity.name.function.expression
+    settings:
+      foreground: _maroon-lightest
+  # Unescaped value
+  - scope: entity.unescaped.expression
+    settings:
+      foreground: _maroon-lightest
+  # Expression parameter NAME
+  - scope: entity.expression variable.parameter.name
+    settings:
+      foreground: _orange
+  # Expression parameter VALUE
+  - scope: entity.expression variable.parameter.value
+    settings:
+      foreground: _maroon-lightest
+  # Ember built in helpers
+  - scope: entity.expression support.function.builtin
+    settings:
+      foreground: _yellow-light
+  # HTML tag names
+  - scope: entity.name.tag.html
+    settings:
+      foreground: _orange
+  # HTML attribute NAME
+  - scope: entity.other.attribute-name.handlebars
+    settings:
+      foreground: _orange-light

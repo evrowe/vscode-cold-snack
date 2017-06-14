@@ -1,0 +1,264 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "comment": "Cold Snack, created by Evan Rowe.",
+  "author": "Evan Rowe",
+  "name": "Cold Snack Theme",
+  "tokenColors": [
+    {
+      "settings": {
+        "background": "_blue-dark",
+        "foreground": "_white"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "_gray-dark",
+        "fontStyle": " italic"
+      }
+    },
+    {
+      "name": "String",
+      "scope": "string",
+      "settings": {
+        "foreground": "_orange"
+      }
+    },
+    {
+      "name": "Number",
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Built-in constant",
+      "scope": "constant.language",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "User-defined constant",
+      "scope": "constant.character, constant.other",
+      "settings": {
+        "foreground": "_yellow"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": "variable",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_orange-light"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "_yellow"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": "storage",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Storage type",
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Class name",
+      "scope": "entity.name.class",
+      "settings": {
+        "foreground": "_maroon-lightest",
+        "fontStyle": " italic"
+      }
+    },
+    {
+      "name": "Inherited class",
+      "scope": "entity.other.inherited-class",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Function name",
+      "scope": "entity.name.function",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_blue-lightest"
+      }
+    },
+    {
+      "name": "Function argument",
+      "scope": "variable.parameter",
+      "settings": {
+        "foreground": "_maroon-lightest",
+        "fontStyle": " italic"
+      }
+    },
+    {
+      "name": "Tag name",
+      "scope": "entity.name.tag",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_orange-dark"
+      }
+    },
+    {
+      "name": "Tag attribute",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Library function",
+      "scope": "support.function",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_yellow-light"
+      }
+    },
+    {
+      "name": "Library constant",
+      "scope": "support.constant",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Library class\/type",
+      "scope": "support.type, support.class",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Library variable",
+      "scope": "support.other.variable",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "_yellow-light"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": "invalid",
+      "settings": {
+        "background": "",
+        "foreground": "_gray"
+      }
+    },
+    {
+      "name": "Invalid deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "background": "",
+        "foreground": "_gray",
+        "fontStyle": "italic underline"
+      }
+    },
+    {
+      "name": "Italic HTML attribute names",
+      "scope": "\n\t\t\t\t, constant.other.symbol.ruby,\n\t\t\t\t, entity.other.attribute-name.jsx,\n\t\t\t",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source meta.property-list meta.property-name support.type.property-name",
+      "settings": {
+        "foreground": "_gray-light"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source meta.property-list meta.property-value keyword.other.unit",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "source.js keyword.operator.js",
+      "scope": "source keyword.operator",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source.js entity.name.type.object.js.firebug",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source meta.class.instance.constructor keyword.operator.new",
+      "settings": {
+        "fontStyle": " italic",
+        "background": "",
+        "foreground": "_yellow"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source.js meta.class.instance.constructor entity.name.type.instance.js",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source meta.at-rule.media",
+      "settings": {
+        "foreground": "_orange"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source meta.at-rule.import variable.parameter.url",
+      "settings": {
+        "foreground": "_orange-dark"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source.sass variable.parameter.sass",
+      "settings": {
+        "foreground": "_orange-light"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source meta.property-value.css constant.other",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "",
+      "scope": "source .property-value.css parameter constant.numeric.css keyword.other.unit.css",
+      "settings": {
+        "foreground": "_maroon-lightest"
+      }
+    }
+  ],
+  "colorSpaceName": "sRGB",
+  "semanticClass": "theme.dark.cold_snack"
+}

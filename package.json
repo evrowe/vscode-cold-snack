@@ -1,0 +1,36 @@
+{
+    "name": "cold-snack",
+    "displayName": "Cold Snack",
+    "description": "Cold Snack Theme",
+    "version": "0.1.0",
+    "publisher": "evrowe",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "bugs": {
+        "url": "https://github.com/evrowe/vscode-cold-snack/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/evrowe/vscode-cold-snack"
+    },
+    "scripts": {
+        "build": "node build.js"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cold Snack",
+                "uiTheme": "vs-dark",
+                "path": "./dist/Cold Snack.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@crystal-ball/eslint-config-eloquence": "^1.0.0",
+        "js-yaml": "^3.8.4"
+    }
+}

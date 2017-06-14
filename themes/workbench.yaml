@@ -1,0 +1,101 @@
+colors:
+  background: _blue-dark
+  foreground: _white
+  #
+  # Activity bar (far left sidebar)
+  #
+  activityBar.background: _blue
+  activityBar.foreground: _orange-light
+  activityBarBadge.background: _maroon-lightest
+  #
+  # Button
+  #
+  button.background: _orange
+  #
+  # Diff
+  #
+  diffEditor.insertedTextBackground: _orange-light
+  # diffEditor.insertedTextBorder: NONE
+  diffEditor.removedTextBackground: _maroon-lightest
+  # diffEditor.removedTextBorder: NONE
+  #
+  # Dropdowns
+  #
+  dropdown.background: _blue
+  #
+  # Editor
+  #
+  editor.background: _blue-dark
+  editor.foreground: _white
+  editor.selectionBackground: _blue-light
+  editorCursor.foreground: _yellow
+  editorRuler.foreground: _yellow
+  editorBracketMatch.border: _yellow
+  # editorBracketMatch.background: NONE
+  #
+  # Errors
+  #
+  editorError.foreground: _maroon-lightest
+  editorError.border: _maroon-dark
+  editorWarning.foreground: _orange-light
+  editorWarning.border: _orange-dark
+  #
+  # Git Gutters
+  #
+  editorGutter.modifiedBackground: _orange-light
+  editorGutter.addedBackground: _blue-lightest
+  editorGutter.deletedBackground: _maroon-lightest
+  #
+  # Input Control
+  #
+  input.background: _blue
+  inputValidation.errorBackground: _maroon-light
+  inputValidation.infoBackground: _blue-light
+  inputValidation.warningBackground: _orange
+  #
+  # List
+  #
+  # list.hoverForeground: _hover-green tree text on hover
+  #
+  # Sidebar (File tree)
+  #
+  sideBar.background: _blue-dark
+  #
+  # Slider
+  #
+  scrollbarSlider.activeBackground: _blue-lightest
+  scrollbarSlider.hoverBackground: _blue-lightest
+  #
+  # Status Bar (bar on bottom)
+  #
+  statusBar.background: _blue-light
+  #
+  # Tab Bar
+  #
+  editorGroupHeader.noTabsBackground: _blue-dark
+  editorGroupHeader.tabsBackground: _blue-dark
+  editorGroupHeader.tabsBorder: _blue-dark
+  #
+  # Tabs
+  #
+  tab.activeBackground: _orange-dark
+  tab.border: _blue-dark
+  tab.inactiveBackground: _blue
+  #
+  # Terminal
+  #
+  terminal.ansiBlue: _blue-lightest
+  terminal.ansiBrightBlack: _gray
+  terminal.ansiBrightBlue: _blue-lightest
+  terminal.ansiBrightCyan: _blue-lightest
+  terminal.ansiBrightGreen: _orange-dark
+  terminal.ansiBrightMagenta: _orange-light
+  terminal.ansiBrightRed: _maroon-lightest
+  terminal.ansiBrightWhite: _gray-light
+  terminal.ansiBrightYellow: _yellow
+  terminal.ansiCyan: _blue-lightest
+  terminal.ansiGreen: _orange-dark
+  terminal.ansiMagenta: _orange-light
+  terminal.ansiRed: _maroon-lightest
+  terminal.ansiWhite: _gray-light
+  terminal.ansiYellow: _yellow

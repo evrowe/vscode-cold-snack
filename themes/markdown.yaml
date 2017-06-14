@@ -1,0 +1,21 @@
+styles:
+  # Markdown is italics for some reason?? Sets all MD back to base normal style
+  - scope: meta.paragraph.markdown
+    settings:
+      fontStyle: normal
+  # Inline code blocks: `code`
+  - scope: markup.inline.raw
+    settings:
+      foreground: _orange
+  # Headers: ## Heading
+  - scope: punctuation.definition.heading
+    settings:
+      foreground: _orange
+  # List punctuation: -
+  - scope: beginning.punctuation.definition.list
+    settings:
+      foreground: _maroon-light
+  # Fenced code blocks
+  - scope: markup.fenced_code.block.markdown
+    settings:
+      foreground: _gray-light
