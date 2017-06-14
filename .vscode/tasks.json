@@ -1,0 +1,8 @@
+// Task runner automatically calls the build script
+{
+  "version": "0.1.0",
+  "command": "npm",
+  "isShellCommand": true,
+  "showOutput": "always",
+  "args": ["run", "build"]
+}
