@@ -28,7 +28,6 @@ colors:
   editor.foreground: _white
   editor.lineHighlightBackground: _blue
   editor.selectionBackground: _blue
-  editorCodeLens.background: _blue-dark
   editorCursor.foreground: _yellow
   editorRuler.foreground: _blue
   editorBracketMatch.border: _yellow
@@ -37,7 +36,6 @@ colors:
   # Editor Widgets
   #
   editorWidget.background: _blue-dark
-  editorWidgetBorder: _blue
   #
   # Errors
   #

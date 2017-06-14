@@ -1,5 +1,9 @@
 # Change Log
 
-## 0.1.0 - 2017-13-2017
+Updates to the the "Cold Snack" theme will be tracked and documented in this file.
 
-- 🎉 Initial release!
+This project utilizes [Semantic Versioning](http://semver.org/). 
+
+## [1.0.0] - 2017-06-14
+
+🎉 Initial release!
