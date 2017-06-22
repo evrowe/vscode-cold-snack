@@ -5,6 +5,8 @@ Reminiscent of the Unofficial Official Beer of Montana, the Cold Snack theme wil
 as you create your magical works.
 
 This theme supports most (soon to be all) major themeable parts of the VS Code UI, and provides custom theming for the following formats:
+
+- JavaScript
 - Markdown
 - Handlebars/HTMLBars
 - JSDoc Blocks

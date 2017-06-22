@@ -2,7 +2,7 @@
     "name": "cold-snack",
     "displayName": "Cold Snack",
     "description": "The crispest, most freshing theme for your editor.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "evrowe",
     "engines": {
         "vscode": "^1.12.0"
@@ -24,6 +24,17 @@
     "galleryBanner": {
       "color": "#027ddb"
     },
+    "keywords": [
+      "cold snack",
+      "montucky",
+      "blue",
+      "neon",
+      "mountains",
+      "beer",
+      "totally rad",
+      "theme",
+      "color-theme"
+    ],
     "contributes": {
         "themes": [
             {
