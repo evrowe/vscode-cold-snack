@@ -19,3 +19,6 @@ styles:
   - scope: markup.fenced_code.block.markdown
     settings:
       foreground: _gray-dark
+  - scope: markup.fenced_code.block.markdown fenced_code.block.language
+    settings:
+      foreground: _gray
