@@ -1,4 +1,5 @@
 colors:
+  background: _blue-dark
   foreground: _white
   #
   # Activity bar (far left sidebar)
@@ -16,9 +17,9 @@ colors:
   #
   # Diff
   #
-  diffEditor.insertedTextBackground: _blue-light
+  diffEditor.insertedTextBackground: _blue-light-fade-ultra
   # diffEditor.insertedTextBorder: NONE
-  diffEditor.removedTextBackground: _maroon-lightest
+  diffEditor.removedTextBackground: _maroon-lightest-fade-ultra
   # diffEditor.removedTextBorder: NONE
   #
   # Dropdowns
@@ -30,7 +31,7 @@ colors:
   editor.background: _blue-dark
   editor.foreground: _white
   editor.lineHighlightBackground: _blue
-  editor.selectionBackground: _blue
+  editor.selectionBackground: _orange-lightest-fade
   editorCursor.foreground: _yellow
   editorRuler.foreground: _blue
   editorBracketMatch.border: _yellow
@@ -42,8 +43,10 @@ colors:
   #
   # Errors
   #
-  editorError.border: _maroon
+  editorError.border: _maroon-light
+  editorError.foreground: _maroon-lightest
   editorWarning.border: _orange-dark
+  editorWarning.foreground: _orange-light
   #
   # Git Gutters
   #
@@ -108,13 +111,13 @@ colors:
   terminal.ansiBlue: _blue-lightest
   terminal.ansiBrightBlack: _gray
   terminal.ansiBrightBlue: _blue-lightest
-  terminal.ansiBrightCyan: _blue-lightest
+  terminal.ansiBrightCyan: _blue-light-extreme
   terminal.ansiBrightGreen: _orange-dark
   terminal.ansiBrightMagenta: _orange-light
   terminal.ansiBrightRed: _maroon-lightest
   terminal.ansiBrightWhite: _gray-light
   terminal.ansiBrightYellow: _yellow
-  terminal.ansiCyan: _blue-lightest
+  terminal.ansiCyan: _blue-light-extreme
   terminal.ansiGreen: _orange-dark
   terminal.ansiMagenta: _orange-light
   terminal.ansiRed: _maroon-lightest

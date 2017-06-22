@@ -4,6 +4,14 @@ styles:
     settings:
       foregound: _gray-dark
       fontStyle: normal
+  # Consistent template string colors in doc blocks
+  - scope: comment.block markup.inline.raw
+    settings:
+      foreground: _blue-lightest
+  # Highlight matched languages in fenced MD blocks
+  - scope: comment.block fenced_code.block.language
+    settings:
+      foreground: _gray
   # Tags with type defs curly punctation
   - scope: entity.name.type.instance.jsdoc punctuation.definition
     settings:
@@ -15,9 +23,12 @@ styles:
       foreground: _gray
       fontStyle: italic
   # Built in JSdoc block tags
-  - scope: comment.block storage
+  - scope: comment.block storage, comment.block storage.type
     settings:
-      foreground: _orange-light
+      foreground: _maroon-lightest
+  - scope: comment.block variable
+    settings:
+      foreground: _orange-lightest
   # Custom doc tags
   - scope: comment.block storage.custom
     settings:

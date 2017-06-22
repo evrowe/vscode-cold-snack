@@ -58,7 +58,7 @@
       "name": "Keyword",
       "scope": "keyword",
       "settings": {
-        "foreground": "_yellow-light"
+        "foreground": "_yellow-lighter"
       }
     },
     {
@@ -74,6 +74,13 @@
       "scope": "storage.type",
       "settings": {
         "foreground": "_maroon-lightest"
+      }
+    },
+    {
+      "name": "Arrow function",
+      "scope": "storage.type.function.arrow",
+      "settings": {
+        "foreground": "_yellow-lighter"
       }
     },
     {
@@ -97,14 +104,14 @@
       "scope": "entity.name.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "_blue-lightest"
+        "foreground": "_blue-light-extreme"
       }
     },
     {
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "_maroon-lightest",
+        "foreground": "_orange-light-ultra",
         "fontStyle": " italic"
       }
     },
@@ -129,7 +136,7 @@
       "scope": "support.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "_yellow-lighter"
+        "foreground": "_blue-light-extreme"
       }
     },
     {
@@ -197,7 +204,7 @@
       "name": "source.js keyword.operator.js",
       "scope": "source keyword.operator",
       "settings": {
-        "foreground": "_maroon-lightest"
+        "foreground": "_yellow-lighter"
       }
     },
     {
