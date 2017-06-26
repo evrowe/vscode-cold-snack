@@ -8,6 +8,7 @@ themeColors:
   # Bluuuuees
   _blue: '#0a2c4f'
   _blue-dark: '#0a0c29'
+  _blue-darker: '#0a0c24'
   _blue-light: '#027ddb'
   _blue-light-fade: '#027ddb66'
   _blue-light-fade-ultra: '#027ddb33'

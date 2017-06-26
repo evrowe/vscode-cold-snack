@@ -13,6 +13,7 @@ This project utilizes [Semantic Versioning](http://semver.org/).
 
 ### Changed
 - Updated merge conflict highlight colors to be more in light with diff editor highlight colors; addresses code readability issues in merge conflict viewer
+- Updated sidebar background and list styles to provide slightly more contrast and better hover/selected states for files
 
 ## [1.1.0] Stallion - 2017-06-22
 

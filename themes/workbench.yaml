@@ -63,9 +63,9 @@ colors:
   #
   # List
   #
-  list.hoverBackground: _blue
+  list.hoverBackground: _blue-lightest
   list.activeSelectionBackground: _blue-light
-  list.inactiveSelectionBackground: _blue
+  list.inactiveSelectionBackground: _blue-light-fade
   #
   # Merge Conflicts
   #
@@ -83,7 +83,7 @@ colors:
   #
   # Sidebar (File tree)
   #
-  sideBar.background: _blue-dark
+  sideBar.background: _blue-darker
   #
   # Scrollbar + Slider
   #
