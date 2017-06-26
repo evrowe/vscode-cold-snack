@@ -69,9 +69,9 @@ colors:
   #
   # Merge Conflicts
   #
-  merge.currentHeaderBackground: _blue-light-extreme-fade
+  merge.currentHeaderBackground: _blue-light
   merge.currentContentBackground: _blue-light-extreme-fade
-  merge.incomingHeaderBackground: _maroon-lightest-fade-ultra
+  merge.incomingHeaderBackground: _maroon-light
   merge.incomingContentBackground: _maroon-lightest-fade-ultra
   #
   # Peek View
