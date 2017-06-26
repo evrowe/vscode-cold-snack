@@ -12,7 +12,7 @@ themeColors:
   _blue-light-fade: '#027ddb66'
   _blue-light-fade-ultra: '#027ddb33'
   _blue-lightest: '#00b7e9'
-  _blue-light-extreme: '#00e9ff',
+  _blue-light-extreme: '#00e9ff'
   _blue-light-extreme-fade: '#00e9ff66'
   # Mountains
   _maroon: '#4b0c39'
