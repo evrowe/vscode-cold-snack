@@ -69,10 +69,10 @@ colors:
   #
   # Merge Conflicts
   #
-  merge.currentHeaderBackground: _blue-lightest
-  merge.currentContentBackground: _blue-light
-  merge.incomingHeaderBackground: _orange-lightest
-  merge.incomingContentBackground: _orange-light
+  merge.currentHeaderBackground: _blue-light-extreme-fade
+  merge.currentContentBackground: _blue-light-extreme-fade
+  merge.incomingHeaderBackground: _maroon-lightest-fade-ultra
+  merge.incomingContentBackground: _maroon-lightest-fade-ultra
   #
   # Peek View
   #

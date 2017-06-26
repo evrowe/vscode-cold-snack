@@ -1,0 +1,8 @@
+$schema: vscode://schemas/color-theme
+comment: Cold Snack, created by Evan Rowe.
+author: Evan Rowe
+name: Cold Snack Theme
+tokenColors:
+  settings:
+    background: _blue-dark
+    foreground: _white

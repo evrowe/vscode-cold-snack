@@ -12,7 +12,8 @@ themeColors:
   _blue-light-fade: '#027ddb66'
   _blue-light-fade-ultra: '#027ddb33'
   _blue-lightest: '#00b7e9'
-  _blue-light-extreme: '#00e9ff'
+  _blue-light-extreme: '#00e9ff',
+  _blue-light-extreme-fade: '#00e9ff66'
   # Mountains
   _maroon: '#4b0c39'
   _maroon-dark: '#2b0c29'
@@ -20,6 +21,7 @@ themeColors:
   _maroon-lightest: '#CF6cC9'
   _maroon-lightest-fade: '#CF6cC966'
   _maroon-lightest-ultra: '#DF6cEF'
+  _maroon-lightest-fade-ultra: '#DF6cEF66'
   _orange: '#ef7c11'
   _orange-dark: '#cf5c00'
   _orange-light: '#ff8c31'
