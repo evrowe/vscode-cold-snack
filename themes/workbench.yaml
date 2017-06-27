@@ -87,6 +87,7 @@ colors:
   #
   # Scrollbar + Slider
   #
+  scrollbar.shadow: _maroon-lightest
   scrollbarSlider.activeBackground: _blue-light
   scrollbarSlider.hoverBackground: _blue-light
   #

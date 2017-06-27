@@ -452,6 +452,7 @@
     "peekViewResult.selectionBackground": "#0a2c4f",
     "peekViewTitle.background": "#0a2c4f",
     "sideBar.background": "#0a0c24",
+    "scrollbar.shadow": "#CF6cC9",
     "scrollbarSlider.activeBackground": "#027ddb",
     "scrollbarSlider.hoverBackground": "#027ddb",
     "statusBar.background": "#027ddb",
