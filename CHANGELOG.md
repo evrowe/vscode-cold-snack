@@ -7,11 +7,13 @@ This project utilizes [Semantic Versioning](http://semver.org/).
 ## [1.3.0] Big Sky - FUTURE
 
 ### Added
-- Scrollbar shadow colorization
+- Added scrollbar shadow colorization
+- Added custom background color for drag and drop on the activity bar
 
 ### Changed
 - Updated background colors for merge conflict editor headers for incoming and current content to stand out from the body background colors
 - Updated sidebar background and list styles to provide slightly more contrast and better hover/selected states for files
+- Updated line number color
 
 ## [1.2.0] Mustang - 2017-06-26
 

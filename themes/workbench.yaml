@@ -5,6 +5,7 @@ colors:
   # Activity bar (far left sidebar)
   #
   activityBar.background: _blue
+  activityBar.dropBackground: _blue-light-fade
   activityBar.foreground: _orange-light
   activityBarBadge.background: _maroon-lightest
   #
@@ -14,6 +15,7 @@ colors:
   # Button
   #
   button.background: _orange
+  button.hoverBackground: _orange-light
   #
   # Diff
   #
@@ -33,6 +35,7 @@ colors:
   editor.lineHighlightBackground: _blue
   editor.selectionBackground: _orange-lightest-fade
   editorCursor.foreground: _yellow
+  editorLineNumber.foreground: _blue-light-extreme-fade
   editorRuler.foreground: _blue
   editorBracketMatch.border: _yellow
   # editorBracketMatch.background: NONE
