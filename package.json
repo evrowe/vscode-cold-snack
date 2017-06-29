@@ -2,7 +2,7 @@
     "name": "cold-snack",
     "displayName": "Cold Snack",
     "description": "The crispest, most freshing theme for your editor.",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "publisher": "evrowe",
     "engines": {
         "vscode": "^1.12.0"

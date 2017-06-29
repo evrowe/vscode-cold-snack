@@ -4,7 +4,7 @@ Updates to the the "Cold Snack" theme will be tracked and documented in this fil
 
 This project utilizes [Semantic Versioning](http://semver.org/). 
 
-## [1.3.0] Big Sky - FUTURE
+## [1.3.0] Big Sky - 2017-06-29
 
 ### Added
 - Added scrollbar shadow colorization
@@ -14,6 +14,7 @@ This project utilizes [Semantic Versioning](http://semver.org/).
 - Updated background colors for merge conflict editor headers for incoming and current content to stand out from the body background colors
 - Updated sidebar background and list styles to provide slightly more contrast and better hover/selected states for files
 - Updated line number color
+- Updated button hover background color
 
 ## [1.2.0] Mustang - 2017-06-26
 
