@@ -112,21 +112,24 @@ colors:
   #
   # Terminal
   #
+  terminal.ansiBlack: _gray
   terminal.ansiBlue: _blue-lightest
   terminal.ansiBrightBlack: _gray
   terminal.ansiBrightBlue: _blue-lightest
   terminal.ansiBrightCyan: _blue-light-extreme
-  terminal.ansiBrightGreen: _orange-dark
-  terminal.ansiBrightMagenta: _orange-light
-  terminal.ansiBrightRed: _maroon-lightest
-  terminal.ansiBrightWhite: _gray-light
-  terminal.ansiBrightYellow: _yellow
+  terminal.ansiBrightGreen: _orange
+  terminal.ansiBrightMagenta: _maroon-lightest-ultra
+  terminal.ansiBrightRed: _maroon-light
+  terminal.ansiBrightWhite: _white
+  terminal.ansiBrightYellow: _yellow-light
   terminal.ansiCyan: _blue-light-extreme
-  terminal.ansiGreen: _orange-dark
-  terminal.ansiMagenta: _orange-light
-  terminal.ansiRed: _maroon-lightest
-  terminal.ansiWhite: _gray-light
-  terminal.ansiYellow: _yellow
+  terminal.ansiGreen: _orange
+  terminal.ansiMagenta: _maroon-lightest-ultra
+  terminal.ansiRed: _maroon-light
+  terminal.ansiWhite: _white
+  terminal.ansiYellow: _yellow-light
+  terminalCursor.background: _maroon-lightest-ultra
+  terminalCursor.foreground: _blue-light-extreme
   #
   # Title Bar (macOS)
   #
