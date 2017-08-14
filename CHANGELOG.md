@@ -4,6 +4,14 @@ Updates to the the "Cold Snack" theme will be tracked and documented in this fil
 
 This project utilizes [Semantic Versioning](http://semver.org/). 
 
+## [1.4.0] Sweet Grass - 2017-08-14
+
+### Added
+- Terminal cursor now has themed foreground and background colors
+
+### Changed
+- Updated terminal theming to be consistent with [iTerm Cold Snack](https://github.com/evrowe/iterm-cold-snack)
+
 ## [1.3.0] Big Sky - 2017-06-29
 
 ### Added
