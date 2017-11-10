@@ -57,6 +57,14 @@ colors:
   editorGutter.addedBackground: _blue-lightest
   editorGutter.deletedBackground: _maroon-lightest
   #
+  # Git Status in Explorer
+  #
+  gitDecoration.conflictingResourceForeground: _maroon-lightest-ultra
+  gitDecoration.deletedResourceForeground: _yellow-lightest
+  gitDecoration.ignoredResourceForeground: _gray-dark
+  gitDecoration.modifiedResourceForeground: _orange-light-ultra
+  gitDecoration.untrackedResourceForeground: _blue-light-extreme
+  #
   # Input Control
   #
   input.background: _blue

@@ -4,6 +4,11 @@ Updates to the the "Cold Snack" theme will be tracked and documented in this fil
 
 This project utilizes [Semantic Versioning](http://semver.org/). 
 
+## [1.5.0] Mighty Gallop 2017-11-09
+
+### Added
+- Git Decorations in Explorer sidebar are now themed
+
 ## [1.4.0] Sweet Grass - 2017-08-14
 
 ### Added
