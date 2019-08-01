@@ -4,6 +4,11 @@ Updates to the the "Cold Snack" theme will be tracked and documented in this fil
 
 This project utilizes [Semantic Versioning](http://semver.org/). 
 
+## [1.6.0] Thundrous Hooves 2019-08-01
+
+### Added
+- All new ✨Synth Snack✨ theme (see README for activation instructions)
+
 ## [1.5.0] Mighty Gallop 2017-11-09
 
 ### Added

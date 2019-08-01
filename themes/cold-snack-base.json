@@ -14,7 +14,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "_gray-dark",
+        "foreground": "#00e9ffaa",
         "fontStyle": " italic"
       }
     },
