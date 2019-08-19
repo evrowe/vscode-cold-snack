@@ -19,6 +19,8 @@ This theme supports most (soon to be all) major themeable parts of the VS Code U
 
 Add some Synthwave glow to your cold snack!
 
+![Screenshot 4](https://github.com/evrowe/vscode-cold-snack/raw/master/screenshot4.png)
+
 - Install the [Custom CSS and JS Loader extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) from the VS Code Marketplace
 - Locate `synth-snack.css` in this extension's VS Code install directory or [download it from the github repo](https://github.com/evrowe/vscode-cold-snack)
 - Copy/download the file somewhere safe onto your local machine (like your user directory, or where ever you like to keep your projects)
